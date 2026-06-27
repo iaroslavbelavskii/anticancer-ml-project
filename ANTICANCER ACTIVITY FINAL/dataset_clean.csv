@@ -1,0 +1,143 @@
+chembl_id,chemical_formula,target_name,pIC50,canonical_smiles,pref_name
+CHEMBL102583,C7H18Cl2N2O2Pt,41M,5.72,[Pt](N)(Cl)(Cl)(O)(O)CN1CCCCC1C,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(N-methylcyclohexylamine)-platinium (IV)"
+CHEMBL102583,C7H18Cl2N2O2Pt,A2780,5.595,[Pt](N)(Cl)(Cl)(O)(O)CN1CCCCC1C,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(N-methylcyclohexylamine)-platinium (IV)"
+CHEMBL102583,C7H18Cl2N2O2Pt,CH1,5.715,[Pt](N)(Cl)(Cl)(O)(O)CN1CCCCC1C,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(N-methylcyclohexylamine)-platinium (IV)"
+CHEMBL102583,C7H18Cl2N2O2Pt,SK-OV-3,5.16,[Pt](N)(Cl)(Cl)(O)(O)CN1CCCCC1C,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(N-methylcyclohexylamine)-platinium (IV)"
+CHEMBL102644,C6H14Br2N2Pt,41M,5.45,[Pt](Br)(Br)(N)(NCCCCCCC),trans-Amminedibromo (cyclohexylamine)-platinium (II)
+CHEMBL102644,C6H14Br2N2Pt,A2780,5.494999999999999,[Pt](Br)(Br)(N)(NCCCCCCC),trans-Amminedibromo (cyclohexylamine)-platinium (II)
+CHEMBL102644,C6H14Br2N2Pt,CH1,5.35,[Pt](Br)(Br)(N)(NCCCCCCC),trans-Amminedibromo (cyclohexylamine)-platinium (II)
+CHEMBL102644,C6H14Br2N2Pt,SK-OV-3,4.94,[Pt](Br)(Br)(N)(NCCCCCCC),trans-Amminedibromo (cyclohexylamine)-platinium (II)
+CHEMBL103049,C6H16Cl2N2Pt,41M,5.369999999999999,[Pt](Cl)(Cl)(NCCCCCCC)(N),Trans-Amminedichloro hexylamine platinium (II)
+CHEMBL103049,C6H16Cl2N2Pt,A2780,5.48,[Pt](Cl)(Cl)(NCCCCCCC)(N),Trans-Amminedichloro hexylamine platinium (II)
+CHEMBL103049,C6H16Cl2N2Pt,CH1,5.380000000000001,[Pt](Cl)(Cl)(NCCCCCCC)(N),Trans-Amminedichloro hexylamine platinium (II)
+CHEMBL103049,C6H16Cl2N2Pt,SK-OV-3,5.15,[Pt](Cl)(Cl)(NCCCCCCC)(N),Trans-Amminedichloro hexylamine platinium (II)
+CHEMBL103122,C7H12Cl2N2O2Pt,41M,5.89,[Pt](N)(Cl)(Cl)(O)(O)CNCC1=CC=CC=C1,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxy-f-(benzylamine)-platinium (IV)"
+CHEMBL103122,C7H12Cl2N2O2Pt,A2780,5.67,[Pt](N)(Cl)(Cl)(O)(O)CNCC1=CC=CC=C1,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxy-f-(benzylamine)-platinium (IV)"
+CHEMBL103122,C7H12Cl2N2O2Pt,CH1,5.84,[Pt](N)(Cl)(Cl)(O)(O)CNCC1=CC=CC=C1,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxy-f-(benzylamine)-platinium (IV)"
+CHEMBL103122,C7H12Cl2N2O2Pt,SK-OV-3,5.09,[Pt](N)(Cl)(Cl)(O)(O)CNCC1=CC=CC=C1,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxy-f-(benzylamine)-platinium (IV)"
+CHEMBL103347,C7H14Cl2N2Pt,41M,5.835,[Pt]([NH3])(N1[C@H]2CC[C@H]1C2)(Cl)(Cl)(O)(O),"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(exo-2-aminonorbornane)-platinium (IV)"
+CHEMBL103347,C7H14Cl2N2Pt,A2780,6.06,[Pt]([NH3])(N1[C@H]2CC[C@H]1C2)(Cl)(Cl)(O)(O),"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(exo-2-aminonorbornane)-platinium (IV)"
+CHEMBL103347,C7H14Cl2N2Pt,CH1,5.81,[Pt]([NH3])(N1[C@H]2CC[C@H]1C2)(Cl)(Cl)(O)(O),"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(exo-2-aminonorbornane)-platinium (IV)"
+CHEMBL103347,C7H14Cl2N2Pt,SK-OV-3,5.36,[Pt]([NH3])(N1[C@H]2CC[C@H]1C2)(Cl)(Cl)(O)(O),"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(exo-2-aminonorbornane)-platinium (IV)"
+CHEMBL103570,C6H16Cl2N2O2Pt,41M,5.675,[Pt](N)(NCCCCCCC)(Cl)(Cl)(O)(O),"trans-a-ammine-b,d-dichloro-f-(cyclohexylamine)-c,e-dihydroxoplatinium (IV)"
+CHEMBL103570,C6H16Cl2N2O2Pt,A2780,5.91,[Pt](N)(NCCCCCCC)(Cl)(Cl)(O)(O),"trans-a-ammine-b,d-dichloro-f-(cyclohexylamine)-c,e-dihydroxoplatinium (IV)"
+CHEMBL103570,C6H16Cl2N2O2Pt,CH1,5.83,[Pt](N)(NCCCCCCC)(Cl)(Cl)(O)(O),"trans-a-ammine-b,d-dichloro-f-(cyclohexylamine)-c,e-dihydroxoplatinium (IV)"
+CHEMBL103570,C6H16Cl2N2O2Pt,SK-OV-3,5.0,[Pt](N)(NCCCCCCC)(Cl)(Cl)(O)(O),"trans-a-ammine-b,d-dichloro-f-(cyclohexylamine)-c,e-dihydroxoplatinium (IV)"
+CHEMBL103721,C7H16Cl2N2Pt,41M,6.215,[Pt](Cl)(Cl)(N(C)C1CCCCC1)(N),trans-Amminedichloro(N-methylcyclohexylamine)-platinium (II)
+CHEMBL103721,C7H16Cl2N2Pt,A2780,5.890000000000001,[Pt](Cl)(Cl)(N(C)C1CCCCC1)(N),trans-Amminedichloro(N-methylcyclohexylamine)-platinium (II)
+CHEMBL103721,C7H16Cl2N2Pt,CH1,6.1899999999999995,[Pt](Cl)(Cl)(N(C)C1CCCCC1)(N),trans-Amminedichloro(N-methylcyclohexylamine)-platinium (II)
+CHEMBL103721,C7H16Cl2N2Pt,SK-OV-3,5.41,[Pt](Cl)(Cl)(N(C)C1CCCCC1)(N),trans-Amminedichloro(N-methylcyclohexylamine)-platinium (II)
+CHEMBL105222,C7H18Cl2N2O2Pt,41M,4.93,[Pt](N)(Cl)(Cl)(O)(O)C1CN2CCC1CC2,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(quinuclidine)-platinium (IV)"
+CHEMBL105222,C7H18Cl2N2O2Pt,A2780,5.15,[Pt](N)(Cl)(Cl)(O)(O)C1CN2CCC1CC2,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(quinuclidine)-platinium (IV)"
+CHEMBL105222,C7H18Cl2N2O2Pt,CH1,4.915,[Pt](N)(Cl)(Cl)(O)(O)C1CN2CCC1CC2,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(quinuclidine)-platinium (IV)"
+CHEMBL105222,C7H18Cl2N2O2Pt,SK-OV-3,4.57,[Pt](N)(Cl)(Cl)(O)(O)C1CN2CCC1CC2,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(quinuclidine)-platinium (IV)"
+CHEMBL108133,C6H22Cl2N6Pt2+2,41M,5.734999999999999,[Pt](Cl)(N)(N)([NH2][CH2][CH2][CH2][CH2][CH2][NH2])[Pt](Cl)(N)(N),trans-[{PtCl(NH3)2}-mu-{NH2(CH2)6NH2}-trans-{PtCl(NH3)2}]
+CHEMBL108133,C6H22Cl2N6Pt2+2,A2780,6.26,[Pt](Cl)(N)(N)([NH2][CH2][CH2][CH2][CH2][CH2][NH2])[Pt](Cl)(N)(N),trans-[{PtCl(NH3)2}-mu-{NH2(CH2)6NH2}-trans-{PtCl(NH3)2}]
+CHEMBL108133,C6H22Cl2N6Pt2+2,CH1,6.26,[Pt](Cl)(N)(N)([NH2][CH2][CH2][CH2][CH2][CH2][NH2])[Pt](Cl)(N)(N),trans-[{PtCl(NH3)2}-mu-{NH2(CH2)6NH2}-trans-{PtCl(NH3)2}]
+CHEMBL108133,C6H22Cl2N6Pt2+2,SK-OV-3,4.4399999999999995,[Pt](Cl)(N)(N)([NH2][CH2][CH2][CH2][CH2][CH2][NH2])[Pt](Cl)(N)(N),trans-[{PtCl(NH3)2}-mu-{NH2(CH2)6NH2}-trans-{PtCl(NH3)2}]
+CHEMBL1351,C6H12N2O4Pt,A2780,5.09,[Pt](C1N(CCO1)C(=O)NCC(=O)O)(Cl)(Cl)Cl,CARBOPLATIN
+CHEMBL1351,C6H12N2O4Pt,CH1,5.215,[Pt](C1N(CCO1)C(=O)NCC(=O)O)(Cl)(Cl)Cl,CARBOPLATIN
+CHEMBL1351,C6H12N2O4Pt,SK-OV-3,4.7,[Pt](C1N(CCO1)C(=O)NCC(=O)O)(Cl)(Cl)Cl,CARBOPLATIN
+CHEMBL146966,C11H12AuN3S2+,A2780,5.140000000000001,[Au](C#N)(C#N)(c1ccc(cc1)CN(C)C),"Bis(thiocyanato)[2-(dimethylamino)methyl]phenyl-C,N]gold-(III)"
+CHEMBL146966,C11H12AuN3S2+,CH1,4.98,[Au](C#N)(C#N)(c1ccc(cc1)CN(C)C),"Bis(thiocyanato)[2-(dimethylamino)methyl]phenyl-C,N]gold-(III)"
+CHEMBL146966,C11H12AuN3S2+,SK-OV-3,4.555,[Au](C#N)(C#N)(c1ccc(cc1)CN(C)C),"Bis(thiocyanato)[2-(dimethylamino)methyl]phenyl-C,N]gold-(III)"
+CHEMBL148800,C10H16Cl2N3Pt+,41M,4.35,[Pt](Cl)(Cl)(C1=CN=CC=N1)(C1=CCN=C1),trans-ptcl2(picoline)(pz)
+CHEMBL148800,C10H16Cl2N3Pt+,A2780,5.0,[Pt](Cl)(Cl)(C1=CN=CC=N1)(C1=CCN=C1),trans-ptcl2(picoline)(pz)
+CHEMBL148800,C10H16Cl2N3Pt+,CH1,4.59,[Pt](Cl)(Cl)(C1=CN=CC=N1)(C1=CCN=C1),trans-ptcl2(picoline)(pz)
+CHEMBL196628,C14H16N2O4Pt,41M,4.85,[Pt](O=C(C)O)(O=C(C)O)(C1=CN=CC=C1)(C1=CN=CC=C1),trans-[Pt(OAc)2(py)2]
+CHEMBL196628,C14H16N2O4Pt,A2780,4.89,[Pt](O=C(C)O)(O=C(C)O)(C1=CN=CC=C1)(C1=CN=CC=C1),trans-[Pt(OAc)2(py)2]
+CHEMBL196628,C14H16N2O4Pt,CH1,4.72,[Pt](O=C(C)O)(O=C(C)O)(C1=CN=CC=C1)(C1=CN=CC=C1),trans-[Pt(OAc)2(py)2]
+CHEMBL2068310,C8H20Cl4N2O2Pt,A2780,5.66,[Pt](Cl)(Cl)(Cl)(Cl)N(CCO)CCO.N(CCO)CCO,Tetrachlorodi(4-hydroxybutylamine)platinum(IV)
+CHEMBL2068310,C8H20Cl4N2O2Pt,SK-OV-3,5.4,[Pt](Cl)(Cl)(Cl)(Cl)N(CCO)CCO.N(CCO)CCO,Tetrachlorodi(4-hydroxybutylamine)platinum(IV)
+CHEMBL2068312,C8H16Cl2N2O5Pt,A2780,5.55,[Pt](Cl)(Cl)(C(=O)C)(C(=O)C)(O)N(CCN)C(O)N,Dichloro diacetyl oxy-(amino ethylamino ethanol) platinum
+CHEMBL2068312,C8H16Cl2N2O5Pt,SK-OV-3,4.62,[Pt](Cl)(Cl)(C(=O)C)(C(=O)C)(O)N(CCN)C(O)N,Dichloro diacetyl oxy-(amino ethylamino ethanol) platinum
+CHEMBL2068314,C8H16Cl2N2O6Pt,SK-OV-3,5.0,[Pt](Cl)(Cl)(O=C(C)O)(O=C(C)O)(NCCO)(NCCO),Dichlorodiacetyl oxy-(ammino acetoxy ethylammino ethanol) platinum (II)
+CHEMBL2068316,C6H16Cl4N2O2Pt,A2780,5.8,[Pt](Cl)(Cl)(Cl)(Cl)N(CCO)CCO.NCCO,Tetrachlorodi(3-hydroxypropylamine)platinum(IV)
+CHEMBL2068316,C6H16Cl4N2O2Pt,SK-OV-3,5.0,[Pt](Cl)(Cl)(Cl)(Cl)N(CCO)CCO.NCCO,Tetrachlorodi(3-hydroxypropylamine)platinum(IV)
+CHEMBL2068372,C7H17Cl2N3Pt,41M,4.42,[Pt](Cl)(Cl)(C(C)(C)C(N)C)(CN(C)C)C1=NN=NC1,trans-ptcl2(IPA)(pz)
+CHEMBL2068372,C7H17Cl2N3Pt,A2780,4.85,[Pt](Cl)(Cl)(C(C)(C)C(N)C)(CN(C)C)C1=NN=NC1,trans-ptcl2(IPA)(pz)
+CHEMBL2068372,C7H17Cl2N3Pt,CH1,4.65,[Pt](Cl)(Cl)(C(C)(C)C(N)C)(CN(C)C)C1=NN=NC1,trans-ptcl2(IPA)(pz)
+CHEMBL2068452,C8H20Cl2N2O2Pt,SK-OV-3,4.64,[Pt](Cl)(Cl)(NCCCCO)(NCCCCO),Dichlorodi(4-hydroxybutylamine)platinum (II)
+CHEMBL2068454,C6H16Cl2N2O2Pt,SK-OV-3,4.7,[Pt](NCCCO)(NCCCO)ClCl,Dichlorodi(3-hydroxypropylamine)platinum (II)
+CHEMBL2068458,C10H20Cl2N2O6Pt,SK-OV-3,4.66,[Pt](Cl)(Cl)(O=C(N)C(O)CCCN(CCO)C(=O)O)O=C(N)C(O)CCCN(CCO)C(=O)O,Dichlorodiacetyl oxy-(ammino acetoxy butylammino ethanol) platinum (II)
+CHEMBL2068496,C9H19Cl2N3Pt,41M,4.43,[Pt]([Cl])([Cl])(N(CCCC1)CCC1)(N(N2CCCC2)C3CCCC3),trans-ptcl2(pip)(pz)
+CHEMBL2068496,C9H19Cl2N3Pt,A2780,4.75,[Pt]([Cl])([Cl])(N(CCCC1)CCC1)(N(N2CCCC2)C3CCCC3),trans-ptcl2(pip)(pz)
+CHEMBL2068496,C9H19Cl2N3Pt,CH1,4.365,[Pt]([Cl])([Cl])(N(CCCC1)CCC1)(N(N2CCCC2)C3CCCC3),trans-ptcl2(pip)(pz)
+CHEMBL295047,C23H20Cl3N8O6Ru-,A2780,4.965,[Ru](N(N(N(Nc1cccnc1)c2cccnc2)c3cccnc3)N(N(Nc1cccnc1)c2cccnc2)c3cccnc3)(O[N+](=O)[O-])O[N+](=O)[O-],beta-[Ru(azpy)2(NO3)2] CHCl3
+CHEMBL298410,C23H20Cl5N6Ru+3,A2780,5.47,[Ru](N(N(N(c1ccc(cc1)N(c2ccc(cc2)N))c3ccc(cc3)N))N(N(N(c4ccc(cc4)N(c5ccc(cc5)N))c6ccc(cc6)N))Cl)Cl,beta-[Ru(azpy)2Cl2] CHCl3
+CHEMBL317255,C7H16Cl2N2Pt,A2780,4.58,[Pt](N)(N)(C1CN2CCC1CC2)(Cl)Cl,trans-Amminedichloro(quinuclidine)platinium (II)
+CHEMBL320447,C7H16Cl2N2Pt,41M,5.695,[Pt](NCCCCCCCN)(Cl)(Cl)N,Trans-Amminedichloro(cycloheptylamine)platinium (II)
+CHEMBL320447,C7H16Cl2N2Pt,A2780,5.615,[Pt](NCCCCCCCN)(Cl)(Cl)N,Trans-Amminedichloro(cycloheptylamine)platinium (II)
+CHEMBL320447,C7H16Cl2N2Pt,CH1,5.35,[Pt](NCCCCCCCN)(Cl)(Cl)N,Trans-Amminedichloro(cycloheptylamine)platinium (II)
+CHEMBL320447,C7H16Cl2N2Pt,SK-OV-3,5.0,[Pt](NCCCCCCCN)(Cl)(Cl)N,Trans-Amminedichloro(cycloheptylamine)platinium (II)
+CHEMBL322197,C7H16Cl4N2Pt,41M,4.79,[Pt](N)(C1CN2CCC1CC2)(Cl)(Cl)(Cl)(Cl),trans-Amminetetrachloro(quinuclidine)-platinium (IV)
+CHEMBL322197,C7H16Cl4N2Pt,A2780,4.824999999999999,[Pt](N)(C1CN2CCC1CC2)(Cl)(Cl)(Cl)(Cl),trans-Amminetetrachloro(quinuclidine)-platinium (IV)
+CHEMBL322197,C7H16Cl4N2Pt,CH1,4.81,[Pt](N)(C1CN2CCC1CC2)(Cl)(Cl)(Cl)(Cl),trans-Amminetetrachloro(quinuclidine)-platinium (IV)
+CHEMBL322197,C7H16Cl4N2Pt,SK-OV-3,4.54,[Pt](N)(C1CN2CCC1CC2)(Cl)(Cl)(Cl)(Cl),trans-Amminetetrachloro(quinuclidine)-platinium (IV)
+CHEMBL323516,C12H26Cl2N4O4Pt,41M,5.29,[Pt]([NH3])(NC1CCCCC1)(Cl)(Cl)([O]C(=O)NCC)([O]C(=O)NCC),"trans-a-ammine-b,d-dichloro-f-(cyclohexylamine)-c,e-bis-(ethylcarbamato)platinium (IV)"
+CHEMBL323516,C12H26Cl2N4O4Pt,A2780,5.234999999999999,[Pt]([NH3])(NC1CCCCC1)(Cl)(Cl)([O]C(=O)NCC)([O]C(=O)NCC),"trans-a-ammine-b,d-dichloro-f-(cyclohexylamine)-c,e-bis-(ethylcarbamato)platinium (IV)"
+CHEMBL323516,C12H26Cl2N4O4Pt,CH1,5.295,[Pt]([NH3])(NC1CCCCC1)(Cl)(Cl)([O]C(=O)NCC)([O]C(=O)NCC),"trans-a-ammine-b,d-dichloro-f-(cyclohexylamine)-c,e-bis-(ethylcarbamato)platinium (IV)"
+CHEMBL323516,C12H26Cl2N4O4Pt,SK-OV-3,4.72,[Pt]([NH3])(NC1CCCCC1)(Cl)(Cl)([O]C(=O)NCC)([O]C(=O)NCC),"trans-a-ammine-b,d-dichloro-f-(cyclohexylamine)-c,e-bis-(ethylcarbamato)platinium (IV)"
+CHEMBL326518,C15H11AuClN3+3,A2780,6.5649999999999995,[Au](Cl)(N(CCCN(CCCN)c1ccccn1)c1ccccn1)c1ccccn1,AU(TERPY)
+CHEMBL332792,C10H20AuN4,A2780,4.0,[Au]([NH2]C1CCCCN1)([NH2]C1CCCCN1),AUCYCLAM
+CHEMBL370881,C13H16N2O4Pt,41M,4.66,[Pt](O=C(O)C)(O=C(O)C)(N)(C1=CC=NC2=CC=CC=C21),trans-[Pt(OAc)2(NH3)(iquin)]
+CHEMBL370881,C13H16N2O4Pt,A2780,4.89,[Pt](O=C(O)C)(O=C(O)C)(N)(C1=CC=NC2=CC=CC=C21),trans-[Pt(OAc)2(NH3)(iquin)]
+CHEMBL370881,C13H16N2O4Pt,CH1,4.7,[Pt](O=C(O)C)(O=C(O)C)(N)(C1=CC=NC2=CC=CC=C21),trans-[Pt(OAc)2(NH3)(iquin)]
+CHEMBL414804,C8H12N2O4Pt,A2780,5.18,[Pt]([NH2]C([NH2])C([O-])C([O-])=O)(C1CC1)C1CC1,OXALIPLATIN
+CHEMBL414804,C8H12N2O4Pt,CH1,6.57,[Pt]([NH2]C([NH2])C([O-])C([O-])=O)(C1CC1)C1CC1,OXALIPLATIN
+CHEMBL430691,C6H14Cl4N2Pt,41M,5.449999999999999,[Pt](N)(NCCCCCCC)(Cl)(Cl)(Cl)(Cl),trans-Amminetetrachloro(cyclohexylamine)-platinium (IV)
+CHEMBL430691,C6H14Cl4N2Pt,A2780,5.550000000000001,[Pt](N)(NCCCCCCC)(Cl)(Cl)(Cl)(Cl),trans-Amminetetrachloro(cyclohexylamine)-platinium (IV)
+CHEMBL430691,C6H14Cl4N2Pt,CH1,5.37,[Pt](N)(NCCCCCCC)(Cl)(Cl)(Cl)(Cl),trans-Amminetetrachloro(cyclohexylamine)-platinium (IV)
+CHEMBL430691,C6H14Cl4N2Pt,SK-OV-3,5.03,[Pt](N)(NCCCCCCC)(Cl)(Cl)(Cl)(Cl),trans-Amminetetrachloro(cyclohexylamine)-platinium (IV)
+CHEMBL49397,C24H18N6O6Ru-2,A2780,5.135,[Ru+2](NCCNCCNCCN=[N+][O-])(NCCNCCNCCN=[N+][O-])NCCNCCNCCN,alpha-[Ru(azpy)2(NO3)2]
+CHEMBL49677,C24H18Cl2N4Ru+2,A2780,6.04,[Ru+2](N(N(N(c1cccnc1)c2cccnc2)c3cccnc3)N(N(N(c4cccnc4)c5cccnc5)c6cccnc6)N)[Cl][Cl],alpha-[Ru(azpy)2Cl2]
+CHEMBL72018,C8H16O2PtS4,SK-OV-3,4.324999999999999,[Pt]([S]1([S][S]([S]1([S]2([S][S]2)))(OCCCC)(OCCCC))),"2,6-dipropoxy-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"
+CHEMBL72317,C10H16O2PtS4,SK-OV-3,4.095,[Pt]([S]1([S][S]([S]1)C(OCC1CC1)C(OCC1CC1))),"2,6-bis(cyclopropylmethoxy)-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"
+CHEMBL72640,C12H20O2PtS4,SK-OV-3,4.675,[Pt]([S]1([S][S]([S]1(Oc2c1cccc2)C1CCCC1)C1CCCC1)Oc2c1cccc2)C1CCCC1,"2,6-bis(cyclopentyloxy)-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"
+CHEMBL72867,C6H12O2PtS4,SK-OV-3,4.04,[Pt]([S]1([S][S]([S]1)C(OCC)C(OCC))),"2,6-diethoxy-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"
+CHEMBL111089,C6H20Cl3N5Pt2,41M,5.755,[Pt]([NH3])([NH3])(Cl)[NH2][CH2][CH2][CH2][CH2][CH2][CH2][NH2][Pt]([NH3])(Cl)(Cl)[Cl],trans-[{PtCl(NH3)2}-mu-{NH2(CH2)6NH2}-cis-{PtCl2(NH3)}]Cl
+CHEMBL111089,C6H20Cl3N5Pt2,A2780,6.51,[Pt]([NH3])([NH3])(Cl)[NH2][CH2][CH2][CH2][CH2][CH2][CH2][NH2][Pt]([NH3])(Cl)(Cl)[Cl],trans-[{PtCl(NH3)2}-mu-{NH2(CH2)6NH2}-cis-{PtCl2(NH3)}]Cl
+CHEMBL111089,C6H20Cl3N5Pt2,CH1,6.265,[Pt]([NH3])([NH3])(Cl)[NH2][CH2][CH2][CH2][CH2][CH2][CH2][NH2][Pt]([NH3])(Cl)(Cl)[Cl],trans-[{PtCl(NH3)2}-mu-{NH2(CH2)6NH2}-cis-{PtCl2(NH3)}]Cl
+CHEMBL111089,C6H20Cl3N5Pt2,SK-OV-3,4.63,[Pt]([NH3])([NH3])(Cl)[NH2][CH2][CH2][CH2][CH2][CH2][CH2][NH2][Pt]([NH3])(Cl)(Cl)[Cl],trans-[{PtCl(NH3)2}-mu-{NH2(CH2)6NH2}-cis-{PtCl2(NH3)}]Cl
+CHEMBL118385,C12H8AuCl2N2+2,A2780,5.4399999999999995,[C@H]1[C@H][C@@H](C1)C1=C[N+](=C1)C1=C[C@H](C1)C1=C[N+](=C1)C[Au](Cl)Cl,AUPHEN
+CHEMBL150105,C13H18AuNO4+,A2780,4.96,[CH3][N+](C)[CH2][c]1[CH][CH][CH][CH][c]1[CH2][Au](OC(=O)C)(OC(=O)C)OC(=O)C,"Acetato[2-(dimethylamino)methyl]phenyl-C,N]gold-(III)"
+CHEMBL150105,C13H18AuNO4+,CH1,4.9399999999999995,[CH3][N+](C)[CH2][c]1[CH][CH][CH][CH][c]1[CH2][Au](OC(=O)C)(OC(=O)C)OC(=O)C,"Acetato[2-(dimethylamino)methyl]phenyl-C,N]gold-(III)"
+CHEMBL150105,C13H18AuNO4+,SK-OV-3,4.89,[CH3][N+](C)[CH2][c]1[CH][CH][CH][CH][c]1[CH2][Au](OC(=O)C)(OC(=O)C)OC(=O)C,"Acetato[2-(dimethylamino)methyl]phenyl-C,N]gold-(III)"
+CHEMBL194376,C13H16N2O4Pt,41M,4.66,CC(=O)O[Pt](CC(=O)O)(N)(c1ccc2c(c1)CN2C)c1ccc2c(c1)CN2C,trans-[Pt(OAc)2(NH3)(quin)]
+CHEMBL194376,C13H16N2O4Pt,A2780,4.89,CC(=O)O[Pt](CC(=O)O)(N)(c1ccc2c(c1)CN2C)c1ccc2c(c1)CN2C,trans-[Pt(OAc)2(NH3)(quin)]
+CHEMBL194376,C13H16N2O4Pt,CH1,4.77,CC(=O)O[Pt](CC(=O)O)(N)(c1ccc2c(c1)CN2C)c1ccc2c(c1)CN2C,trans-[Pt(OAc)2(NH3)(quin)]
+CHEMBL2068376,C8H19Cl2N3Pt,41M,4.41,[Pt](Cl)(Cl)(NCCCC)(Nc1cccnn1),trans-ptcl2(n-butyl amine)(pz)
+CHEMBL2068376,C8H19Cl2N3Pt,A2780,4.8,[Pt](Cl)(Cl)(NCCCC)(Nc1cccnn1),trans-ptcl2(n-butyl amine)(pz)
+CHEMBL2068376,C8H19Cl2N3Pt,CH1,4.744999999999999,[Pt](Cl)(Cl)(NCCCC)(Nc1cccnn1),trans-ptcl2(n-butyl amine)(pz)
+CHEMBL2146196,C8H16Cl2N2O2Pt,SK-OV-3,5.11,[Pt](Cl)(Cl)[C@@H]1[C@H]([C@@H](N)[C@@H]1O)CN[C@](O)(C)C,"cis-Dichloro[(2S,3R,4S)-2-aminomethyl-3,4-(O-isopropylidene)dihydrxypyrrolidine]platinum (II)"
+CHEMBL309353,C14H24O2PtS4,SK-OV-3,4.984999999999999,C1CCCCC1OC1CCCCC1O[Pt]23SCCS3CCS2,"2,6-bis(cyclohexyloxy)-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"
+CHEMBL319263,C8H22Cl2N2O2Pt,41M,6.16,[Pt](Cl)(Cl)(N)(O)(O)C(C(C)(C)C)(C)(N)C(C)(C)C,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(1,1,3,3-tetramethyl butylamine)-platinium (IV)"
+CHEMBL319263,C8H22Cl2N2O2Pt,A2780,6.03,[Pt](Cl)(Cl)(N)(O)(O)C(C(C)(C)C)(C)(N)C(C)(C)C,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(1,1,3,3-tetramethyl butylamine)-platinium (IV)"
+CHEMBL319263,C8H22Cl2N2O2Pt,CH1,6.35,[Pt](Cl)(Cl)(N)(O)(O)C(C(C)(C)C)(C)(N)C(C)(C)C,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(1,1,3,3-tetramethyl butylamine)-platinium (IV)"
+CHEMBL319263,C8H22Cl2N2O2Pt,SK-OV-3,5.75,[Pt](Cl)(Cl)(N)(O)(O)C(C(C)(C)C)(C)(N)C(C)(C)C,"trans-a-Ammine-b,d-dichloro-c,e-dihydroxo-f-(1,1,3,3-tetramethyl butylamine)-platinium (IV)"
+CHEMBL319686,C12H26Cl2N2O2Pt,41M,6.01,[Pt](Cl)(Cl)([NH2]C1CCCCC1)([NH2]C1CCCCC1)(O)(O),"trans-a,f-Dichloro-b,d-bis(cyclohexylamine)-c,e-dihydroxo-platinium (IV)"
+CHEMBL319686,C12H26Cl2N2O2Pt,A2780,5.8,[Pt](Cl)(Cl)([NH2]C1CCCCC1)([NH2]C1CCCCC1)(O)(O),"trans-a,f-Dichloro-b,d-bis(cyclohexylamine)-c,e-dihydroxo-platinium (IV)"
+CHEMBL319686,C12H26Cl2N2O2Pt,CH1,6.24,[Pt](Cl)(Cl)([NH2]C1CCCCC1)([NH2]C1CCCCC1)(O)(O),"trans-a,f-Dichloro-b,d-bis(cyclohexylamine)-c,e-dihydroxo-platinium (IV)"
+CHEMBL319686,C12H26Cl2N2O2Pt,SK-OV-3,5.6,[Pt](Cl)(Cl)([NH2]C1CCCCC1)([NH2]C1CCCCC1)(O)(O),"trans-a,f-Dichloro-b,d-bis(cyclohexylamine)-c,e-dihydroxo-platinium (IV)"
+CHEMBL320638,C10H22Cl2N2Pt,41M,6.115,[Pt](N)(NCC1(C)C2CC3CC(C1)C2C3)(Cl)Cl,trans-(1-Aminoadamantane)Amminedichloro-platinium (II)
+CHEMBL320638,C10H22Cl2N2Pt,A2780,6.125,[Pt](N)(NCC1(C)C2CC3CC(C1)C2C3)(Cl)Cl,trans-(1-Aminoadamantane)Amminedichloro-platinium (II)
+CHEMBL320638,C10H22Cl2N2Pt,CH1,6.525,[Pt](N)(NCC1(C)C2CC3CC(C1)C2C3)(Cl)Cl,trans-(1-Aminoadamantane)Amminedichloro-platinium (II)
+CHEMBL320638,C10H22Cl2N2Pt,SK-OV-3,5.82,[Pt](N)(NCC1(C)C2CC3CC(C1)C2C3)(Cl)Cl,trans-(1-Aminoadamantane)Amminedichloro-platinium (II)
+CHEMBL347085,C12H14AuNO4+,A2780,5.1850000000000005,[C@H]1([C@@H]([C@H]([C@@H]1C(=O)[O-])C(=O)[O-])[Au+3]([C-]2=[N+](C)C)C2=[N+](C)C)c1ccccc1,"Malonato[2-(dimethylamino)methyl]phenyl-C,N]gold-(III)"
+CHEMBL347085,C12H14AuNO4+,CH1,5.525,[C@H]1([C@@H]([C@H]([C@@H]1C(=O)[O-])C(=O)[O-])[Au+3]([C-]2=[N+](C)C)C2=[N+](C)C)c1ccccc1,"Malonato[2-(dimethylamino)methyl]phenyl-C,N]gold-(III)"
+CHEMBL347085,C12H14AuNO4+,SK-OV-3,4.74,[C@H]1([C@@H]([C@H]([C@@H]1C(=O)[O-])C(=O)[O-])[Au+3]([C-]2=[N+](C)C)C2=[N+](C)C)c1ccccc1,"Malonato[2-(dimethylamino)methyl]phenyl-C,N]gold-(III)"
+CHEMBL358664,C9H12AuCl2N+,A2780,4.71,[Cl][Au]([Cl])[C]1=CC=CC=C1[CH2]N(C)C,"Dichloro[2-(dimethylamino)methyl]phenyl-C,N]gold-(III)"
+CHEMBL358664,C9H12AuCl2N+,CH1,4.775,[Cl][Au]([Cl])[C]1=CC=CC=C1[CH2]N(C)C,"Dichloro[2-(dimethylamino)methyl]phenyl-C,N]gold-(III)"
+CHEMBL358664,C9H12AuCl2N+,SK-OV-3,4.35,[Cl][Au]([Cl])[C]1=CC=CC=C1[CH2]N(C)C,"Dichloro[2-(dimethylamino)methyl]phenyl-C,N]gold-(III)"
+CHEMBL413296,C14H28O2PtS4,SK-OV-3,4.609999999999999,C[C@H](C(C)(C)C)Oc1cc2([Pt]3([S][S]3)c2ss1)O[C@H](C(C)(C)C)C,"2,6-bis[(3,3-dimethylbutan-2-yl)oxy]-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"
+CHEMBL419256,C8H16O2PtS4,SK-OV-3,4.665,C(C)O[C@]1([Pt]2([S][S]1)[S][S]2)OC(C)C,"2,6-bis(propan-2-yloxy)-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"
+CHEMBL432005,C10H20Cl2N2O4Pt,41M,5.904999999999999,[Pt](Cl)(Cl)(C(=O)O[C](C)C)(C(=O)O[C](C)C)(C1CCCCC1)[NH4+].[NH4+],AMMONIO(DICHLORO)[DI(METHYLCARBONYLOXY)]PLATINUM(CYCLOHEXYL)AMMONIUM
+CHEMBL432005,C10H20Cl2N2O4Pt,A2780,6.02,[Pt](Cl)(Cl)(C(=O)O[C](C)C)(C(=O)O[C](C)C)(C1CCCCC1)[NH4+].[NH4+],AMMONIO(DICHLORO)[DI(METHYLCARBONYLOXY)]PLATINUM(CYCLOHEXYL)AMMONIUM
+CHEMBL432005,C10H20Cl2N2O4Pt,CH1,5.890000000000001,[Pt](Cl)(Cl)(C(=O)O[C](C)C)(C(=O)O[C](C)C)(C1CCCCC1)[NH4+].[NH4+],AMMONIO(DICHLORO)[DI(METHYLCARBONYLOXY)]PLATINUM(CYCLOHEXYL)AMMONIUM
+CHEMBL432005,C10H20Cl2N2O4Pt,SK-OV-3,5.32,[Pt](Cl)(Cl)(C(=O)O[C](C)C)(C(=O)O[C](C)C)(C1CCCCC1)[NH4+].[NH4+],AMMONIO(DICHLORO)[DI(METHYLCARBONYLOXY)]PLATINUM(CYCLOHEXYL)AMMONIUM
+CHEMBL447841,C12H24O2PtS4,SK-OV-3,4.65,C(CCCOCCC(C)C)S[C@@]1([Pt]2(SS[C@@]1(SS2))OCCC(C)C)OCCC(C)C,"2,6-bis(3-methylbutoxy)-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"
+CHEMBL49789,C25H21N6O4Ru+3,A2780,5.154999999999999,[Ru+3](Nc1cccnc1)(Nc2cccnc2)[C@@H]1C(=O)O[C@H]1C(=O)O,alpha-[Ru(azpy)2(mal)]
+CHEMBL72641,C10H16O2PtS4,SK-OV-3,4.744999999999999,C1CC(O[C@]2([Pt]3([S][C@]([S])2)[S][C@]([S])3))CC1,"2,6-dicyclobutoxy-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"
+CHEMBL72647,C12H24O2PtS4,SK-OV-3,4.55,C(C(C(C)C)O)[S]1[C@]2([Pt]([S]1)([S]2[C](C(C(C)C)O)[S]1)[S]1),"2,6-bis(2-methylbutoxy)-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"
+CHEMBL73585,C12H24O2PtS4,SK-OV-3,4.345,CCCCCOC1SC2SSC1(SSC2[Pt]OCCCCC),"2,6-bis(pentyloxy)-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"
+CHEMBL75705,C12H24O2PtS4,SK-OV-3,5.199999999999999,C1CCCCC1C2CCCCC2O[Pt]2(SSSS2)OCCCCC,"2,6-bis(pentan-3-yloxy)-1,3,5,7-tetrathia-4-platinaspiro[3.3]heptane"

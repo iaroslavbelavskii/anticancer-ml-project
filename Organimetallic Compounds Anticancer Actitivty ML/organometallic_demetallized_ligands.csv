@@ -1,0 +1,3 @@
+chembl_id,chemical_formula,pIC50,canonical_smiles,ligand_smiles
+CHEMBL151593,C17H15BrN4OS,8.57,CO.Nc1cccc2c1sc1c(Nc3cccc(Br)c3)ncnc12,Nc1cccc2c1sc1c(Nc3cccc(Br)c3)ncnc12
+CHEMBL346863,C14H11BrN4OS2,7.4,Brc1cccc(Nc2ncnc3c2sc2ncsc23)c1.CO,Brc1cccc(Nc2ncnc3c2sc2ncsc23)c1
